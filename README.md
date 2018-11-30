@@ -19,13 +19,9 @@ git clone  https://github.com/flormich/convertisseur
 
 <p align="center"
   
- ![logo](convertisseur.gif )
+ ![logo](ressources/convertisseur.gif )
  
 </p>
-
-
-
-
 
 
 ## ©️ Copyright
